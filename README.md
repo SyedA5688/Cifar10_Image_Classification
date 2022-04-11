@@ -2,13 +2,10 @@
 CS3337 course project studying overfitting and data augmentation in image classification on Cifar10 dataset.
 
 Group members:
-Syed Rizvi
-
-Arno Dunstatter
-
-Elisa Martinez
-
-Sevilay Ozturk
+* Syed Rizvi
+* Arno Dunstatter
+* Elisa Martinez
+* Sevilay Ozturk
 
 
 
