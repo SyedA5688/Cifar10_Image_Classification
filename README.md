@@ -3,9 +3,13 @@ CS3337 course project studying overfitting and data augmentation in image classi
 
 Group members:
 Syed Rizvi
+
 Arno Dunstatter
+
 Elisa Martinez
+
 Sevilay Ozturk
+
 
 
 This repository contains Python notebooks implementing several simple Convolutional Neural Networks for image 
